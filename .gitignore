@@ -1,0 +1,9 @@
+# RegLog
+
+node_modules/
+dist/
+target/
+*.log
+.vscode/
+.idea/
+*.iml
