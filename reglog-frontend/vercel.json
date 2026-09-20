@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://reglog-backend.onrender.com/api/:path*"
+      "destination": "https://reglog-backend-d9z3.onrender.com/api/:path*"
     }
   ]
 }
